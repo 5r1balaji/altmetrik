@@ -1,5 +1,7 @@
 # Altimetric Sample App
 
+![alt text](https://github.com/5r1balaji/altmetrik/blob/master/uiscreeenshot.jpg)
+
 Prerequisites:
 	
 	1. NodeJS v8.11.1
